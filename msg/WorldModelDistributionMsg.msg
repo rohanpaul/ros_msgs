@@ -1,0 +1,4 @@
+int64 timestamp
+int16 predicate_likelihoods_num
+string[] predicate_likelihoods_objects
+string[] predicate_likelihoods_probability
