@@ -12,6 +12,11 @@ add_message_files(
   WorldModelDistributionMsg.msg
 )
 
+add_service_files(
+  FILES
+  DeclarativeGroundings.srv
+)
+
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
   DEPENDENCIES

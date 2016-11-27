@@ -5,10 +5,10 @@
   <description>The ros_msgs package for ADCG world model interface</description>
   <maintainer email="rohanp@csail.mit.edu">rohanp</maintainer>
   <license>TODO</license>
-  <build_depend>message_generation</build_depend>
   <build_depend>roscpp</build_depend>
   <build_depend>std_msgs</build_depend>
   <!--build_depend>geometry_msgs</build_depend -->
+  <build_depend>message_generation</build_depend>
   <run_depend>message_runtime</run_depend>
 </package>
 
